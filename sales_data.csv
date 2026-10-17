@@ -1,6 +1,9 @@
-Row Labels,Sum of Total_Revenue
-East,30000
-North,360000
-South,175000
-West,78000
-Grand Total,643000
+Order_ID,Customer_Name,Region,Product,Unit_Price,Quantity
+1001,  rahul sharma  ,North,Laptop,75000,2
+1002,priya patel,South,Phone,25000,4
+1003,  ANANYA VERMA,West,Tablet,18000,3
+1004,kavita singh  ,East,Headphones,3000,10
+1005,rohit mehta,North,Monitor,12000,5
+1006,  SNEHA REDDY  ,South,Laptop,75000,2
+1007,amit kumar,North,Phone,25000,6
+1008,pooja joshi,West,Headphones,3000,8
