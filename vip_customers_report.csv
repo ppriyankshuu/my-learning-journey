@@ -1,0 +1,6 @@
+Transaction_ID,Customer_City,Payment_Method,Category,Order_Value,Discount_Percent,Final_Amount
+TXN-101,Mumbai,UPI,Electronics,12500,0.1,11250.0
+TXN-103,Bangalore,UPI,Electronics,24000,0.15,20400.0
+TXN-109,Bangalore,Credit Card,Electronics,31000,0.2,24800.0
+TXN-112,Delhi,Credit Card,Electronics,14500,0.1,13050.0
+TXN-115,Hyderabad,UPI,Electronics,18500,0.15,15725.0

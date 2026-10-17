@@ -1,0 +1,16 @@
+Transaction_ID,Customer_City,Payment_Method,Category,Order_Value,Discount_Percent
+TXN-101,Mumbai,UPI,Electronics,12500,0.10
+TXN-102,Delhi,Credit Card,Fashion,3200,0.05
+TXN-103,Bangalore,UPI,Electronics,24000,0.15
+TXN-104,Delhi,Cash on Delivery,Groceries,1800,0.00
+TXN-105,Mumbai,Credit Card,Home,6500,0.10
+TXN-106,Bangalore,UPI,Fashion,4500,0.05
+TXN-107,Hyderabad,Cash on Delivery,Electronics,8200,0.08
+TXN-108,Delhi,UPI,Fashion,2900,0.00
+TXN-109,Bangalore,Credit Card,Electronics,31000,0.20
+TXN-110,Mumbai,UPI,Groceries,2100,0.00
+TXN-111,Hyderabad,UPI,Home,5400,0.05
+TXN-112,Delhi,Credit Card,Electronics,14500,0.10
+TXN-113,Bangalore,Cash on Delivery,Fashion,1200,0.00
+TXN-114,Mumbai,Credit Card,Fashion,7800,0.10
+TXN-115,Hyderabad,UPI,Electronics,18500,0.15
