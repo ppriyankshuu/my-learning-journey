@@ -1,0 +1,16 @@
+Order_ID,Customer_Name,City,Category,Sales_Rep,Units_Sold,Unit_Price,Payment,Date
+ORD-001,  rahul sharma  ,Mumbai,Electronics,Amit,3,15000,UPI,2026-10-01
+ORD-002,PRIYA PATEL,Delhi,Fashion,sneha,5,2500,Credit Card,2026-10-01
+ORD-003,ananya verma,Bangalore,Electronics,RAVI,2,32000,UPI,2026-10-02
+ORD-004,  KAVITA SINGH,Hyderabad,Groceries,Amit,12,800,Cash on Delivery,2026-10-02
+ORD-005,rohit mehta  ,Mumbai,Fashion,sneha,4,4500,UPI,2026-10-03
+ORD-006,SNEHA REDDY,Bangalore,Electronics,RAVI,1,55000,Credit Card,2026-10-03
+ORD-007,  amit kumar  ,Delhi,Home,Amit,6,3200,UPI,2026-10-04
+ORD-008,pooja joshi,Mumbai,Groceries,sneha,10,900,Cash on Delivery,2026-10-04
+ORD-009,ARJUN SINGH,Hyderabad,Electronics,RAVI,2,28000,Credit Card,2026-10-05
+ORD-010,meera nair  ,Bangalore,Fashion,Amit,3,6000,UPI,2026-10-05
+ORD-011,  VIKRAM REDDY,Delhi,Electronics,sneha,1,42000,Credit Card,2026-10-06
+ORD-012,sunita devi,Mumbai,Home,RAVI,2,8500,UPI,2026-10-06
+ORD-013,KIRAN KUMAR  ,Hyderabad,Fashion,Amit,7,3500,Cash on Delivery,2026-10-07
+ORD-014,  deepa rao,Bangalore,Groceries,sneha,15,600,UPI,2026-10-07
+ORD-015,RAJESH PATEL,Delhi,Electronics,RAVI,3,19000,Credit Card,2026-10-07
