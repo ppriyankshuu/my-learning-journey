@@ -59,6 +59,15 @@
 
 ---
 
+### 6. 🏦 FinTech Credit Risk & Default Rate Pipeline
+* **File:** [`project4_credit_risk.py`](project4_credit_risk.py)
+* **Stack:** Python, Pandas, Financial Risk Modeling
+* **Business Problem:** Evaluate loan portfolio health, calculate default rates, identify subprime vulnerability segments, and generate automated collections watchlists.
+* **Key Strategic Insight:** While Salaried applicants maintained strong prime credit profiles (average score 723), Self-Employed borrowers exhibited significant credit vulnerability (average score 615), accounting for high default concentration.
+* **Deliverable:** Automated generation of [`collections_watchlist.csv`](collections_watchlist.csv) with calculated salary multiples for targeted capital recovery.
+
+---
+
 ## 🎯 Career Target
 * **Target Roles:** Business Analyst Intern, Data Analyst Intern, Product Operations, Tech Consulting
 * **Timeline Goal:** Crack a competitive, high-impact paid corporate internship before end of 2027.
