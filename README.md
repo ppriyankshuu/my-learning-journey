@@ -68,6 +68,15 @@
 
 ---
 
+### 7. 💻 B2B SaaS Customer Retention & MRR Analytics Engine
+* **File:** [`project5_saas_churn.py`](project5_saas_churn.py)
+* **Stack:** Python, Pandas, Subscription Metrics (MRR / ARR / Cohort Churn)
+* **Business Problem:** Measure subscriber retention dynamics, quantify Monthly Recurring Revenue ($2,491 MRR / $29.8K ARR), and isolate friction points causing early churn.
+* **Key Strategic Insight:** Discovered that Entry-level "Basic" accounts experience severe early abandonment (average tenure of just 3.0 months) correlated directly with high support ticket frequency (6.0 tickets/user). Enterprise accounts demonstrate multi-year longevity (18.0 months).
+* **Deliverable:** Automated export of [`customer_success_intervention.csv`](customer_success_intervention.csv) flagging at-risk corporate subscribers for immediate retention workflows.
+
+---
+
 ## 🎯 Career Target
 * **Target Roles:** Business Analyst Intern, Data Analyst Intern, Product Operations, Tech Consulting
 * **Timeline Goal:** Crack a competitive, high-impact paid corporate internship before end of 2027.
