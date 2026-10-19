@@ -1,0 +1,16 @@
+Loan_ID,Borrower_Name,Age,Employment_Type,Monthly_Income,Loan_Amount,Credit_Score,Loan_Status
+LN-1001,  Aarav Sharma  ,29,Salaried,65000,300000,740,Fully Paid
+LN-1002,Pooja Verma,34,Self-Employed,45000,250000,610,Defaulted
+LN-1003, Rohan Mehta ,41,Salaried,120000,800000,780,Fully Paid
+LN-1004,Sneha Patel,26,Self-Employed,35000,200000,590,Defaulted
+LN-1005,vikram singh,31,Salaried,55000,350000,680,Fully Paid
+LN-1006,Ananya Roy,28,Salaried,90000,500000,750,Fully Paid
+LN-1007,  Kunal Shah,45,Self-Employed,150000,1200000,620,Defaulted
+LN-1008,Neha Nair,33,Salaried,70000,400000,710,Fully Paid
+LN-1009,Amit Joshi,38,Self-Employed,85000,600000,640,Fully Paid
+LN-1010,priya deshmukh,27,Salaried,48000,220000,580,Defaulted
+LN-1011,Rahul Gupta,36,Salaried,110000,700000,760,Fully Paid
+LN-1012,Divya Iyer,30,Self-Employed,60000,450000,600,Defaulted
+LN-1013,Suresh Reddy,50,Salaried,135000,950000,790,Fully Paid
+LN-1014,Kavita Rao,25,Self-Employed,40000,300000,630,Defaulted
+LN-1015,Arjun Das,32,Salaried,80000,450000,720,Fully Paid

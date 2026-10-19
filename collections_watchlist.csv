@@ -1,0 +1,7 @@
+Loan_ID,Borrower_Name,Credit_Score,Monthly_Income,Loan_Amount,Salary_Multiple
+LN-1002,Pooja Verma,610,45000,250000,5.6
+LN-1004,Sneha Patel,590,35000,200000,5.7
+LN-1007,Kunal Shah,620,150000,1200000,8.0
+LN-1010,Priya Deshmukh,580,48000,220000,4.6
+LN-1012,Divya Iyer,600,60000,450000,7.5
+LN-1014,Kavita Rao,630,40000,300000,7.5
