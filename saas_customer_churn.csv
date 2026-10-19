@@ -1,0 +1,16 @@
+Customer_ID,Company_Name,Tier,Monthly_Fee,Tenure_Months,Support_Tickets,Status
+CUST-501,  Acme Corp  ,Basic,29,4,5,Churned
+CUST-502,TechNova,Pro,99,14,1,Active
+CUST-503, Alpha Retail ,Enterprise,499,24,2,Active
+CUST-504,GreenGroves,Basic,29,2,7,Churned
+CUST-505,blue horizon,Pro,99,8,3,Active
+CUST-506,SwiftLogistics,Enterprise,499,18,0,Active
+CUST-507,  Apex Digital,Basic,29,3,6,Churned
+CUST-508,DataSphere,Pro,99,12,2,Active
+CUST-509,UrbanCraft,Basic,29,1,4,Churned
+CUST-510,cloudscale,Enterprise,499,6,5,Churned
+CUST-511,PeakConsulting,Pro,99,20,1,Active
+CUST-512,Zenith Labs,Enterprise,499,30,1,Active
+CUST-513,ByteMedia,Basic,29,5,8,Churned
+CUST-514,NovaFin,Pro,99,16,0,Active
+CUST-515,HyperGrowth,Enterprise,499,12,3,Active

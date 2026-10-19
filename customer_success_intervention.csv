@@ -1,0 +1,3 @@
+Customer_ID,Company_Name,Tier,Monthly_Fee,Tenure_Months,Support_Tickets,Status
+CUST-505,Blue Horizon,Pro,99,8,3,Active
+CUST-515,Hypergrowth,Enterprise,499,12,3,Active
