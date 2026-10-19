@@ -115,3 +115,32 @@ FROM orders o
 JOIN city_managers m ON o.Customer_City = m.City;
 
 • Plain English: "Glue the orders table (o) and managers table (m) together wherever the City name matches."
+
+---
+
+## 🟢 PART 5: Microsoft Power BI Recipes (Executive Dashboards)
+
+### 1. Ingest Raw CSV Data
+* **Path:** `Home` tab ➔ `Get data` ➔ `Text/CSV` ➔ Pick file ➔ Click `Load`.
+* **Plain English:** *"Brings tabular data directly into Power BI's in-memory engine."*
+
+### 2. The Clustered Bar/Column Chart (Leaderboard)
+* **Visual:** Click `Clustered column chart` 📊 in the Visualizations pane.
+* **Fields:** Drag categorical column (e.g., `Customer_City`) to **X-axis**; drag numeric metric (e.g., `Order_Value`) to **Y-axis**.
+* **Plain English:** *"Equivalent to SQL GROUP BY + ORDER BY DESC or Excel Pivot Chart."*
+
+### 3. The Executive KPI Card (Hero Metric)
+* **Visual:** Click `Card` (icon with `1 2 3`) in Visualizations pane.
+* **Fields:** Drag numeric metric (e.g., `Order_Value`) to **Fields**.
+* **Plain English:** *"Instant auto-sum displayed in bold, readable executive format (e.g., 144K)."*
+
+### 4. Share of Total (Donut Chart)
+* **Visual:** Click `Donut chart` 🍩 in Visualizations pane.
+* **Fields:** Drag category (e.g., `Payment_Method`) to **Legend**; drag metric (e.g., `Order_Value`) to **Values**.
+* **Plain English:** *"Displays percentage breakdown across segments."*
+
+### 5. Interactive Slicer (Dynamic Cross-Filtering)
+* **Visual:** Click `Slicer` (funnel/table icon) in Visualizations pane.
+* **Fields:** Drag filter column (e.g., `Category`) to **Field**.
+* **Plain English:** *"Clicking any item dynamically filters every chart on the dashboard in real time."*
+

@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite_3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -46,6 +47,15 @@
 * **Stack:** Microsoft Excel (Tables, `XLOOKUP`, `IF`, `SUMIFS`, `COUNTIFS`, Data Validation)
 * **Business Problem:** Build an executive decision-making model that allows dynamic territory filtering.
 * **Deliverable:** Interactive UI featuring dropdown territory selection that automatically updates revenue, deal count, and commission payouts in real time.
+
+---
+
+### 5. 📈 Interactive E-Commerce Sales BI Dashboard
+* **File:** [`ecommerce_analytics_dashboard.pbix`](ecommerce_analytics_dashboard.pbix)
+* **Stack:** Microsoft Power BI Desktop (Interactive Slicers, KPI Cards, Clustered Bar Visuals, Donut Charts)
+* **Business Problem:** Build an executive-facing dynamic dashboard that tracks multi-city transactional performance across product categories and payment channels.
+* **Key Strategic Insight:** UPI and Credit Card drive over 92% of all digital order volume. Implementing category-level cross-filtering reveals Electronics as the dominant margin contributor across Bangalore and Hyderabad.
+* **Deliverable:** Live interactive `.pbix` report with cross-filtered category slicing and instant KPI aggregations.
 
 ---
 
