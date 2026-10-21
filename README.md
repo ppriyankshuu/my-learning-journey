@@ -77,6 +77,15 @@
 
 ---
 
+### 8. ⚡ Quick-Commerce Dark Store Inventory & Stockout Analytics
+* **File:** [project6_supply_chain.py](project6_supply_chain.py)
+* **Stack:** Python, Pandas, Supply Chain Operations & Inventory Modeling
+* **Business Problem:** Prevent dark store stockouts on high-velocity FMCG items while minimizing capital locked in slow-moving inventory.
+* **Key Strategic Insight:** Identified that 60% of all dark store SKUs were operating below safety stock thresholds, with perishable essentials (Dairy & Bakery) sitting dangerously close to stockout (<0.4 days of supply), while non-perishables (Snacks & Staples) tied up >65% of active working capital.
+* **Deliverable:** Automated generation of [urgent_restock_order.csv](urgent_restock_order.csv) computing lead-time buffer reorder quantities for warehouse procurement.
+
+---
+
 ## 🎯 Career Target
 * **Target Roles:** Business Analyst Intern, Data Analyst Intern, Product Operations, Tech Consulting
 * **Timeline Goal:** Crack a competitive, high-impact paid corporate internship before end of 2027.
