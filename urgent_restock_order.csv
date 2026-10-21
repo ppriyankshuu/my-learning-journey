@@ -1,0 +1,10 @@
+SKU_ID,Product_Name,Category,Current_Stock,Safety_Stock,Daily_Demand,Recommended_Reordering_Units
+SKU-101,Amul Taaza Milk 1L,Dairy,12,50,45,128
+SKU-103,Coca Cola Zero 330Ml,Beverages,8,30,20,62
+SKU-104,Britannia Brown Bread,Bakery,15,40,35,95
+SKU-106,Tropicana Orange 1L,Beverages,22,25,15,33
+SKU-107,Epigamia Greek Yogurt,Dairy,5,30,22,69
+SKU-109,Country Delight Paneer,Dairy,9,35,28,82
+SKU-110,Harvest Gold White Bread,Bakery,11,45,40,114
+SKU-112,Red Bull Energy Drink,Beverages,7,25,16,50
+SKU-115,Mother Dairy Curd 400G,Dairy,14,40,30,86

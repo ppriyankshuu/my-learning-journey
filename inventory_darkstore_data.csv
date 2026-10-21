@@ -1,0 +1,16 @@
+SKU_ID,Product_Name,Category,Current_Stock,Safety_Stock,Daily_Demand,Unit_Cost_INR
+SKU-101,  Amul Taaza Milk 1L  ,Dairy,12,50,45,64
+SKU-102,Farm Fresh Eggs 6pk,Poultry,85,40,25,55
+SKU-103, Coca Cola Zero 330ml ,Beverages,8,30,20,40
+SKU-104,Britannia Brown Bread,Bakery,15,40,35,45
+SKU-105,lay's classic salted,Snacks,120,60,30,20
+SKU-106,Tropicana Orange 1L,Beverages,22,25,15,110
+SKU-107,  Epigamia Greek Yogurt,Dairy,5,30,22,50
+SKU-108,Maggi 2-Minute Noodles,Snacks,160,80,50,14
+SKU-109,Country Delight Paneer,Dairy,9,35,28,95
+SKU-110,harvest gold white bread,Bakery,11,45,40,40
+SKU-111,Cadbury Dairy Milk Silk,Snacks,65,30,18,85
+SKU-112,Red Bull Energy Drink,Beverages,7,25,16,125
+SKU-113,Aashirvaad Atta 5kg,Staples,40,20,10,240
+SKU-114,Fortune Sunflower Oil 1L,Staples,35,25,12,145
+SKU-115,Mother Dairy Curd 400g,Dairy,14,40,30,35
