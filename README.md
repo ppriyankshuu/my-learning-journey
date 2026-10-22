@@ -10,6 +10,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite_3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -83,6 +84,15 @@
 * **Business Problem:** Prevent dark store stockouts on high-velocity FMCG items while minimizing capital locked in slow-moving inventory.
 * **Key Strategic Insight:** Identified that 60% of all dark store SKUs were operating below safety stock thresholds, with perishable essentials (Dairy & Bakery) sitting dangerously close to stockout (<0.4 days of supply), while non-perishables (Snacks & Staples) tied up >65% of active working capital.
 * **Deliverable:** Automated generation of [urgent_restock_order.csv](urgent_restock_order.csv) computing lead-time buffer reorder quantities for warehouse procurement.
+
+---
+
+### 9. 🐘 Enterprise PostgreSQL Analytical Window Engine
+* **File:** [project7_advanced_sql.py](project7_advanced_sql.py)
+* **Stack:** PostgreSQL / DuckDB, Window Functions (RANK() OVER PARTITION BY), CTEs, CASE WHEN
+* **Business Problem:** Perform complex cross-category ranking and real-time customer tier segmentation without slow iterative procedural loops.
+* **Key Strategic Insight:** Isolated the #1 revenue driver within every product vertical, proving Bangalore generated the top transaction across all segments (₹31,000 Electronics deal). Built dynamic customer segmentation classifying transactions into High-Ticket VIP, Mid-Tier, and Standard tiers.
+* **Deliverable:** Blazing-fast relational analytical queries executing complex window partitions and multi-tier customer classification.
 
 ---
 
