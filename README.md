@@ -96,6 +96,15 @@
 
 ---
 
+### 10. 🌐 Automated Web Scraper & Live Data Ingestion Pipeline
+* **File:** [project8_web_scraping.py](project8_web_scraping.py)
+* **Stack:** Python, Requests, BeautifulSoup4, DuckDB / PostgreSQL, Automated ETL
+* **Business Problem:** Extract unstructured live external web market data programmatically without slow, error-prone manual web collation.
+* **Key Strategic Insight:** Programmed a resilient HTTP scraping engine parsing HTML table hierarchies directly into Pandas. Ingested live web feeds into an enterprise SQL engine to dynamically compute performance ranking tiers (RANK() OVER) and auto-export clean executive datasets in <2 seconds.
+* **Deliverable:** Automated script and [scraped_market_report.csv](scraped_market_report.csv) bridging external web data with internal relational databases.
+
+---
+
 ## 🎯 Career Target
 * **Target Roles:** Business Analyst Intern, Data Analyst Intern, Product Operations, Tech Consulting
 * **Timeline Goal:** Crack a competitive, high-impact paid corporate internship before end of 2027.
