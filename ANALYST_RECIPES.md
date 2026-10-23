@@ -144,3 +144,10 @@ JOIN city_managers m ON o.Customer_City = m.City;
 * **Fields:** Drag filter column (e.g., `Category`) to **Field**.
 * **Plain English:** *"Clicking any item dynamically filters every chart on the dashboard in real time."*
 
+
+
+### 6. Dynamic DAX Measures (Enterprise KPI Formulas)
+* **Total Revenue:** `=SUM(ecommerce_transactions[Order_Value])`
+* **Total Orders:** `=COUNTROWS(ecommerce_transactions)`
+* **Average Order Value (Safe DIVIDE):** `=DIVIDE([Total_Revenue], [Total_Orders], 0)`
+* **Plain English:** *"Calculates dynamic mathematical ratios that never crash with #DIV/0! errors and recalculate automatically with slicer clicks."*
