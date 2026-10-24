@@ -1,0 +1,6 @@
+Order_ID,City,Food_Bill_INR,Commission_Rate,Cust_Delivery_Fee_INR,Rider_Payout_INR,Discount_Voucher_INR,Weather,Distance_KM,Commission_Revenue,Platform_Net_Revenue,Total_Cost,Contribution_Margin_INR,Is_Profitable
+ORD-802,Mumbai,280,0.18,25,65,50,Heavy Rain,4.8,56.0,81.0,115,-34.0,False
+ORD-806,Mumbai,190,0.15,20,70,80,Heavy Rain,5.5,38.0,58.0,150,-92.0,False
+ORD-808,Bangalore,310,0.18,25,45,60,Clear,3.8,62.0,87.0,105,-18.0,False
+ORD-810,Mumbai,220,0.15,20,65,70,Heavy Rain,4.2,44.0,64.0,135,-71.0,False
+ORD-813,Hyderabad,260,0.18,25,45,50,Clear,2.8,52.0,77.0,95,-18.0,False

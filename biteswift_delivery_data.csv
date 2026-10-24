@@ -1,0 +1,16 @@
+Order_ID,City,Food_Bill_INR,Commission_Rate,Cust_Delivery_Fee_INR,Rider_Payout_INR,Discount_Voucher_INR,Weather,Distance_KM
+ORD-801,Bangalore,450,0.20,35,50,0,Clear,3.2
+ORD-802,Mumbai,280,0.18,25,65,50,Heavy Rain,4.8
+ORD-803,Delhi,620,0.22,40,55,100,Clear,5.1
+ORD-804,Hyderabad,350,0.20,30,45,20,Clear,2.9
+ORD-805,Bangalore,890,0.25,45,60,50,Clear,6.4
+ORD-806,Mumbai,190,0.15,20,70,80,Heavy Rain,5.5
+ORD-807,Delhi,540,0.20,35,50,0,Foggy,4.1
+ORD-808,Bangalore,310,0.18,25,45,60,Clear,3.8
+ORD-809,Hyderabad,780,0.24,40,55,0,Clear,5.0
+ORD-810,Mumbai,220,0.15,20,65,70,Heavy Rain,4.2
+ORD-811,Delhi,950,0.25,50,70,120,Clear,7.2
+ORD-812,Bangalore,400,0.20,30,50,30,Clear,3.5
+ORD-813,Hyderabad,260,0.18,25,45,50,Clear,2.8
+ORD-814,Mumbai,510,0.20,35,80,40,Heavy Rain,6.1
+ORD-815,Delhi,380,0.20,30,50,40,Clear,3.9
