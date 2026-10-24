@@ -105,6 +105,15 @@
 
 ---
 
+### 11. 🛵 Food Delivery & Ride-Hailing Unit Economics Engine
+* **File:** [project9_unit_economics.py](project9_unit_economics.py)
+* **Stack:** Python, Pandas, Enterprise SQL (DuckDB), Contribution Margin Modeling
+* **Business Problem:** Evaluate per-order profitability across metropolitan geographies, identify negative-contribution margin transactions, and optimize fulfillment surge costs.
+* **Key Strategic Insight:** Uncovered that 33.3% of all platform orders were operating at a net financial loss. While Bangalore (+INR 50.0/order) and Delhi (+INR 42.0/order) maintained strong positive contribution margins, Mumbai experienced severe capital bleed (-INR 45.0/order) driven by a 33% monsoon rider surge spike and unconstrained voucher discounting.
+* **Deliverable:** Automated SQL city-level margin audit and [leeding_orders_audit.csv](bleeding_orders_audit.csv) for dynamic surge pricing intervention.
+
+---
+
 ## 🎯 Career Target
 * **Target Roles:** Business Analyst Intern, Data Analyst Intern, Product Operations, Tech Consulting
 * **Timeline Goal:** Crack a competitive, high-impact paid corporate internship before end of 2027.
